@@ -1,0 +1,7 @@
+j.a.l.chandia@gmail.com
+ Otra prueba
+ <p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;">HOLA</span></p><p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;"><br></span></p><p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;"><br></span></p><table class="table table-bordered"><tbody><tr><td>a<br></td><td>d<br></td><td>s<br></td><td>t<br></td><td><br></td><td><br></td><td><br></td></tr><tr><td>d<br></td><td>d<br></td><td>e<br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr></tbody></table><p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;"><br></span></p>
+        <p> Valor UTM: 56762 </p>
+        <p> Valor Euro: 891.98 </p>
+        <p> Valor Uf: 32606.34 </p>
+        <p> Valor Dolar: 835.43 </p>

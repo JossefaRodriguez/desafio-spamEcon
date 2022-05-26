@@ -1,0 +1,7 @@
+Para: j.a.l.chandia@gmail.com
+ Asunto: Otra prueba
+ Contenido: <p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;">HOLA</span></p><p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;"><br></span></p><p><span style="background-color: rgb(255, 0, 255); font-family: &quot;Arial Black&quot;;"><br></span></p>
+        <p> Valor UTM: 56762 </p>
+        <p> Valor Euro: 891.98 </p>
+        <p> Valor Uf: 32606.34 </p>
+        <p> Valor Dolar: 835.43 </p>
